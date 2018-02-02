@@ -40,8 +40,8 @@
 * Entradilla 						:TOC:
 
 El Taller de Producción de Periodismo de Datos alcanza su sexta edición en 2018 y amplía su duración hasta las
-cinco sesiones. De *febrero a junio*,  /8 proyectos/ trabajan con datos de *Madrid*, los [[http://www.undp.org/content/undp/es/home/sustainable-development-goals.html][objetivos de desarrollo
-sostenible]] (*ODS*) y en concreto los que luchan *contra el cambio climático*.
+cinco sesiones. De *febrero a junio*, /8 proyectos/ trabajarán con datos de *Madrid* los [[http://www.undp.org/content/undp/es/home/sustainable-development-goals.html][objetivos de desarrollo
+sostenible]] (*ODS*), concretamente los que luchan *contra el cambio climático*.
 
 
 * Introducción
@@ -66,7 +66,7 @@ Madrid (y alrededores) y enfocamos nuestra lente sobre los ODS relacionados con 
 
 El Taller de Periodismo de Datos 2018 inicia su andadura el 2 de febrero, fecha de publicación de esta nota. Aquí anunciamos todos los detalles del
 taller. En esta ocasión no os pedimos todavía una propuesta formal, sino que, al igual que en 2017, empecéis a
-trabajar en vuestra idea/propuesta/proyecto y nos envieis un correo para que lo añadamos a la lista de propuestas.
+trabajar en vuestra idea/propuesta/proyecto y nos enviéis un correo para que lo añadamos a la lista de propuestas.
 
 Os recomendamos alguna de estas plataformas para empezar a definir la propuesta: [[https://github.com/][GitHub]], [[http://gitlab.com/][GitLab]], [[https://bitbucket.org/][Bitbucket]], [[https://gogs.io][Gogs]], [[https://gitea.io/][Gitea]] o una solución similar que permita empezar a trabajar sobre la idea y
 aceptar la participación de otras personas. Nosotrxs, de momento, usamos Github, por lo que su uso nos
@@ -79,7 +79,7 @@ ahí no lo controláis de la misma manera.
 
 La *primera sesión* presencial se desarrolla los días *13 y/o 14 de febrero*. Coincidiendo con la [[https://fsfe.org/campaigns/ilovefs/][celebración del
 día del amor por el software libre]] -que ya [[http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017][hemos organizado]] los dos años anteriores- pretendemos que toméis contacto con buena parte del software que nos va a
-acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], texto, edición de texto, HTML, Web, edición gráfica,
+acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], edición de texto, HTML, Web, edición gráfica,
 visualización, mapas... Cada uno de los proyectos puede aprovechar lo que mejor desee de estas tecnologías.
 
 La *segunda sesión* coincide con la celebración del [[http://madrid.opendataday.org][día de los datos abiertos]], *viernes 2 y sábado 3 de
@@ -129,14 +129,14 @@ al 24 de junio.
 
 
 - 22 enero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]]
-- 13-14 febrero, primera sesión: software para periodismo de datos durante ILOVEFS.
-- 2-3 marzo, segunda sesión, busca datos durante OpenDataDay 2018, día de los datos abiertos.
+- 13-14 febrero, *primera sesión*: software para periodismo de datos durante ILOVEFS.
+- 2-3 marzo, *segunda sesión*, busca datos durante OpenDataDay 2018, día de los datos abiertos.
 - 12 marzo, fecha límite de presentación de propuestas.
 - 26 marzo, anuncio de proyectos seleccionados y publicación de convocatoria de colaboradoras.
 - 17-19 abril: practica con software libre durante taller efecto Airbnb en Madrid.
-- 20-22 abril, tercera sesión: simposio, presentación de proyectos y colaboradorxs, formación de equipos.
-- 8-10 junio, cuarta sesión: trabajo.
-- 22-24 junio, quinta y última sesión, presentación de proyectos.
+- 20-22 abril, *tercera sesión*: simposio, presentación de proyectos y colaboradorxs, formación de equipos.
+- 8-10 junio, *cuarta sesión*: trabajo.
+- 22-24 junio, *quinta y última sesión*, presentación de proyectos.
 
 * Por qué "Los Objetivos de Desarrollo Sostenible"         :TOC:
 Los objetivos de desarrollo sostenible son una convocatoria mundial para acabar con la pobreza, conseguir la
@@ -209,7 +209,7 @@ Con la participación de Montera34 y moratoria.eu
 ** Organizan
 - [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], responsable del DataLab Madrid y coordinador del taller.
 - Sara Calvo Tarancón
-- Julián Pérez
+- [[http://medialab-prado.es/person/julian-perez][Julián Pérez]], artista digital y ex-mediador Medialab Prado
 ** Mentorxs técnicxs
 - Alejandro Zappala
 - Jesús David Navarro
