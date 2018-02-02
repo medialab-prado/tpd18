@@ -34,8 +34,8 @@
   - [[#mentorxs-técnicxs][Mentorxs técnicxs]]
   - [[#invitadx-internacional][Invitadx internacional]]
   - [[#relatoría][Relatoría]]
-  - [[#mentorías-locales][Mentorías locales?]]
-- [[#cuentas][Cuentas]]
+  - [[#mediación][Mediación]]
+  - [[#mentorías-de-periodismo-y-visualización-de-datos][Mentorías de periodismo y visualización de datos]]
 
 * Entradilla 						:TOC:
 
@@ -158,21 +158,26 @@ tratarán los objetivos 6, 7, 11, 12, 15 y 17 y donde también participa [[https
 
 ** Primera sesión: software libre pare el Periodismo de Datos.
 *** Día del amor por el Software Libre
-Con la participación de MAX? (distribución GNU/Linux de la Comunidad de Madrid).
-** Segunda sesión: Datos abiertos para el periodismo de datos
-Con la participación de ODI Madrid, OEG-UPM, FEMP?, Ayuntamiento de Madrid?, 
-** Tercera sesión: Simposio, presentación de proyectos y colaboradorxs, formación de equipos
 Con la participación de...
+** Segunda sesión: Datos abiertos para el periodismo de datos
+Con la participación de ODI Madrid, OEG-UPM...
+** Tercera sesión: Simposio, presentación de proyectos y colaboradorxs, formación de equipos
+Esta sesión se compone del /taller práctico sobre el efecto Airbnb en Madrid/, las *Jornadas de Periodismo de
+Datos* y la sesión de presentación de proyectos y colaboradorxs.
 *** Taller del efecto de Airbnb en Madrid
-Con la participación de Montera34, 
-
+Con la participación de Montera34 y moratoria.eu
+*** Jornadas de Periodismo de Datos 2018
+*** Presentación de proyectos y colaboradorxs
+*** Trabajo en grupo
 ** Cuarta sesión
-Trabajo
+*** Trabajo en grupo
 ** Quinta sesión
-Presentación de proyectos
+*** Trabajo en grupo
+*** Presentación de proyectos
 
 * Inspiración
-** Proyectos 
+** Proyectos
+
 - [[https://www.ara.cat/media/Ara-mencio-premi-repte-innovacio-digital_0_1945605656.html][Towards clear air with open data]]
 - [[https://www.eventbrite.com/e/open-bike-data-mapping-with-openstreetmap-registration-34806438996#][Open Bike Data & Mapping with OpenStreetMap]]
 - [[http://2017.summerofcode.be/][Open Summer of Code]]
@@ -203,90 +208,13 @@ Presentación de proyectos
 * Equipo <<equipo>> 							:TOC:
 ** Organizan
 - [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], responsable del DataLab Madrid y coordinador del taller.
-- Sara Calvo Tarancón?
-- Julián Pérez?
+- Sara Calvo Tarancón
+- Julián Pérez
 ** Mentorxs técnicxs
-- Alejandro Zappala?
-- Beatriz Martínez?
+- Alejandro Zappala
+- Beatriz Martínez
 - Jesús David Navarro
-- María Poveda Villalón.
-- Otrxs?
 ** Invitadx internacional
-- Una?
-- Dos?
 ** Relatoría
- - [[http://medialab-prado.es/person/ignacio-azcona-cristobal][Ignacio Azcona Cristobal]], periodista
- - Sandra Sánchez Merinero, periodista
- - María Navarro, periodista
-** Mentorías locales?
-- Javier Barriocanal
-- [[http://medialab-prado.es/person/adrian-blanco][Adrián Blanco]] (El Confidencial)
-- Idoia Sota, El País.
-- Karma Peiró?
-- [[http://medialab-prado.es/person/raul-sanchez-gonzalez][Raúl Sánchez]] (eldiario.es)
-- [[http://medialab-prado.es/person/luis-sevillano-pires][Luis Sevillano]], 
-- [[http://medialab-prado.es/person/maria-zuil][María Zuil]] (El Confidencial).
-- Alba Martín, independiente, editora gráfica.
-* Cuentas
-#+TBLNAME: tpd17
-| Concepto                | Ejecutado por         | Presupuesto |         Subtotal |           Gasto |          Subtotal gasto | Diferencia | Fecha            | Firma            |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Coordinación            |                       |             |             2500 |                 |                    2500 |          0 |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| 2. Coord                | Ignacio Azcona        |        1200 |                  |            1200 |                         |            |                  |                  |
-| 1 Coord.                | Rafa de las Cuevas    |        1300 |                  |            1300 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Mentoría Internacional  |                       |             |              600 |                 |                     600 |          0 |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| 1 MI honorarios         | Hassel Fallas         |         600 |                  |             600 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Mentoría técnica        |                       |             |             2000 |                 |                    2000 |          0 |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| 3MT                     | Alejandro Zappala     |         400 |                  |             400 |                         |            |                  |                  |
-| 2 MT                    | Beatriz Martínez      |         800 |                  |             800 |                         |            |                  |                  |
-| 1 MT                    | Fernando Blat         |         800 |                  |             800 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Mentoría local          |                       |             |             3000 |                 |                    3000 |          0 |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| 2 ML                    | Adrián Blanco         |             |                  |             300 |                         |            |                  |                  |
-| 10 MT                   | Idoia Sota            |             |                  |             300 |                         |            |                  |                  |
-| 5 ML                    | Javier Barriocanal    |             |                  |             300 |                         |            |                  |                  |
-| 1 ML                    | Jesús Escudero        |             |                  |             300 |                         |            |                  |                  |
-| 4 ML                    | Laura Tejedor         |             |                  |             300 |                         |            |                  |                  |
-| 6 ML                    | Luis Sevillano Pires  |             |                  |             300 |                         |            |                  |                  |
-| 3 ML                    | María Zuil            |             |                  |             300 |                         |            |                  |                  |
-| 9 ML                    | Nacho García          |             |                  |             300 |                         |            |                  |                  |
-| 7 ML                    | Nicolás Pérez Iguarán |             |                  |             300 |                         |            |                  |                  |
-| 8 ML                    | Raúl Sánchez González |             |                  |             300 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Viajes y alojamientos   |                       |             |             4100 |                 |                   4188. |       -88. |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Avión Costa Rica-Madrid | Hassel Fallas         |             |                  |            1705 |                         |            |                  |                  |
-| Alojamiento MI          | Hassel Fallas         |             |                  |           418.5 |                         |            |                  |                  |
-| 1 alojamiento proyecto  | Carlos Córcoles       |             |                  |             255 |                         |            |                  |                  |
-| Alojamiento mentora     | Idoia Sota            |             |                  |             255 |                         |            |                  |                  |
-| Viaje proyecto          | Carlos Córcoles       |             |                  |           128.5 |                         |            |                  |                  |
-| Tren Málaga-Madrid      | Carlos Córcoles       |             |                  |           64.25 |                         |            | <2017-05-03 mié> | <2017-05-16 mar> |
-| Tren Barcelona-Madrid   | Idoia Sota            |             |                  |           101.7 |                         |            | <2017-05-04 jue> | <2017-05-16 mar> |
-| Tren Girona-Madrid      | Ignacio García        |             |                  |           90.80 |                         |            | <2017-05-04 jue> | <2017-05-16 mar> |
-| Tren Girona-Madrid      | Laura Olivas          |             |                  |           90.80 |                         |            | <2017-05-04 jue> | <2017-05-16 mar> |
-| Tren Barcelona-Madrid   | David Arroyo          |             |                  |           86.15 |                         |            | <2017-05-04 jue> | <2017-05-07 dom> |
-| Tren Barcelona-Madrid   | Josep Sitjar          |             |                  |          107.70 |                         |            | <2017-05-05 vie> | <2017-05-16 mar> |
-| Tren Madrid-Barcelona   | José Manuel Gutiérrez |             |                  |           86.15 |                         |            | <2017-05-05 vie> | <2017-05-16 mar> |
-| Tren Barcelona-Madrid   | Karma Peiró           |             |                  |           86.15 |                         |            | <2017-05-05 vie> | <2017-05-16 mar> |
-| Tren Barcelona-Madrid   | José Manuel Gutiérrez |             |                  |           86.15 |                         |            | <2017-05-06 sáb> | <2017-05-16 mar> |
-| Tren Madrid-Girona      | Josep Sitjar          |             |                  |           106.3 |                         |            | <2017-05-07 dom> | <2017-05-16 mar> |
-| Tren Madrid-Barcelona   | Idoia Sota            |             |                  |           101.7 |                         |            | <2017-05-07 dom> | <2017-05-16 mar> |
-| Tren Madrid-Girona      | Laura Olivas          |             |                  |           90.80 |                         |            | <2017-05-07 dom> | <2017-05-16 mar> |
-| Tren Barcelona-Madrid   | David Arroyo          |             |                  |           86.15 |                         |            | <2017-05-07 dom> | <2017-06-09 vie> |
-| Tren Madrid-Barcelona   | Karma Peiró           |             |                  |           86.15 |                         |            | <2017-05-07 dom> | <2017-05-16 mar> |
-| Tren Madrid-Málaga      | Carlos Córcoles       |             |                  |           64.25 |                         |            | <2017-05-07 dom> | <2017-05-16 mar> |
-| Tren Madrid-Girona      | Ignacio García        |             |                  |           90.80 |                         |            | <2017-05-08 lun> | <2017-05-16 mar> |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-|                         |                       |             |                  |                 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-| Subtotal                |                       |             | Subtotal + 12200 | Gasto + 10223.5 | Subtotal gasto + 9761.5 |            |                  |                  |
-|                         |                       |             |                  |                 |                         |            |                  |                  |
-|-------------------------+-----------------------+-------------+------------------+-----------------+-------------------------+------------+------------------+------------------|
-#+TBLFM: $4=vsum(@1..@-1)::$5=86.15*2::$6=vsum(@23$5..@43$5)::$7=@22$4-@22$6
-#+TBLFM: $5=vsum(@3..@-1)
+** Mediación
+** Mentorías de periodismo y visualización de datos
