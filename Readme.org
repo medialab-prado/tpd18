@@ -15,20 +15,26 @@
 - [[#introducción][Introducción]]
   - [[#contexto][Contexto]]
 - [[#desarrollo-del-taller][Desarrollo del taller]]
-  - [[#primera-sesión][Primera sesión]]
+  - [[#plazo-de-presentación-de-proyectos][Plazo de presentación de proyectos]]
+  - [[#herramientas-de-comunicación][Herramientas de comunicación]]
+- [[#sesiones][Sesiones]]
+  - [[#primera-sesión-software][Primera sesión: Software]]
+  - [[#segunda-sesión-datos][Segunda sesión: Datos]]
+  - [[#tercera-sesión-jornadas-de-periodismo-de-datos-2018-simposio-sobre-el-efecto-airbnb-en-madrid-y-presentación-de-proyectos-y-colaboradorxs-del-taller][Tercera sesión: Jornadas de Periodismo de Datos 2018, simposio sobre el efecto Airbnb en Madrid y presentación de proyectos y colaboradorxs del taller]]
+  - [[#cuarta-sesión-a-tope][Cuarta sesión: a tope!]]
+  - [[#quinta-sesión-presentación-final][Quinta sesión: presentación final]]
 - [[#resumen-de-fechas][Resumen de fechas:]]
 - [[#por-qué-los-objetivos-de-desarrollo-sostenible][Por qué "Los Objetivos de Desarrollo Sostenible"]]
   - [[#reto-11][Reto 11]]
-- [[#sesiones][Sesiones]]
+  - [[#proyectos][Proyectos]]
+  - [[#datos-sobre-sdg][Datos sobre SDG]]
+- [[#recursos][Recursos]]
+- [[#sesiones-1][Sesiones]]
   - [[#primera-sesión-software-libre-pare-el-periodismo-de-datos][Primera sesión: software libre pare el Periodismo de Datos.]]
   - [[#segunda-sesión-datos-abiertos-para-el-periodismo-de-datos][Segunda sesión: Datos abiertos para el periodismo de datos]]
   - [[#tercera-sesión-simposio-presentación-de-proyectos-y-colaboradorxs-formación-de-equipos][Tercera sesión: Simposio, presentación de proyectos y colaboradorxs, formación de equipos]]
   - [[#cuarta-sesión][Cuarta sesión]]
   - [[#quinta-sesión][Quinta sesión]]
-- [[#inspiración][Inspiración]]
-  - [[#proyectos][Proyectos]]
-  - [[#datos-sobre-sdg][Datos sobre SDG]]
-- [[#recursos][Recursos]]
 - [[#equipo-equipo][Equipo <<equipo>>]]
   - [[#organizan][Organizan]]
   - [[#mentorxs-técnicxs][Mentorxs técnicxs]]
@@ -64,7 +70,7 @@ Madrid (y alrededores) y enfocamos nuestra lente sobre los ODS relacionados con 
 
 * Desarrollo del taller
 
-El Taller de Periodismo de Datos 2018 inicia su andadura el 2 de febrero, fecha de publicación de esta nota. Aquí anunciamos todos los detalles del
+El Taller de Periodismo de Datos 2018 inicia su andadura el 6 de febrero, fecha de publicación de esta nota. Aquí anunciamos todos los detalles del
 taller. En esta ocasión no os pedimos todavía una propuesta formal, sino que, al igual que en 2017, empecéis a
 trabajar en vuestra idea/propuesta/proyecto y nos enviéis un correo para que lo añadamos a la lista de propuestas.
 
@@ -77,75 +83,89 @@ permitirá cierta facilidad de integración.
 ahí no lo controláis de la misma manera.
 #+END_NOTES
 
-La *primera sesión* presencial se desarrolla los días *13 y/o 14 de febrero*. Coincidiendo con la [[https://fsfe.org/campaigns/ilovefs/][celebración del
-día del amor por el software libre]] -que ya [[http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017][hemos organizado]] los dos años anteriores- pretendemos que toméis contacto con buena parte del software que nos va a
-acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], edición de texto, HTML, Web, edición gráfica,
-visualización, mapas... Cada uno de los proyectos puede aprovechar lo que mejor desee de estas tecnologías.
-
-La *segunda sesión* coincide con la celebración del [[http://madrid.opendataday.org][día de los datos abiertos]], *viernes 2 y sábado 3 de
-marzo*. Si en la primera sesión aprendemos de software, en la segunda de datos: cómo hacer peticiones,
-portales de datos, cómo recopilar datos, datos enlazados, Wikipedia como fuente de datos, scraping... Los
-proyectos se presentarán previamente y se podrá trabajar en la búsqueda de datos para los mismos.
+** Plazo de presentación de proyectos
 
 Diez días después, el *13 de marzo*, se cierra el plazo de presentación de proyectos y se anuncian el martes *20
 de marzo*.
 
-La *tercera sesión* se compone a su vez de tres eventos en sí, *del 16 al 22 de abril*:
-- Jornadas de Periodismo de Datos *JPD18*. Al igual que en 2017, aprovechamos la convocatoria del taller para
-  aprender, compartir o difundir proyectos de periodismo de datos y sirve como simposio previo a la sesión del TPD18.
-- *Taller sobre el efecto Airbnb en Madrid*, punto de encuentro de iniciativas tecnopolíticas que están
-  abordando el tema y espacio idóneo para poner en práctica conocimientos de software libre sobre una temática
-  relacionada con el TPD18.
-- Tercera sesión del taller: se presentan los *proyectos seleccionados*, se presentan lxs *colaboradorxs* y se
-  crean formalmente los *equipos*.
+
+** Herramientas de comunicación
 
 Desde la tercera sesión hasta junio, cuando celebramos dos, los equipos harán un trabajo en línea o
 presencial. Para lo primero es importante el haber conocido el conjunto de herramientas de comunicación que
 nos pueden ayudar: Github, Telegram, correo electrónico, etc.; para lo segundo, Medialab-Prado, siempre que su agenda lo permita, puede servir de espacio
 de reunión y trabajo.
 
+* Sesiones
+
+** Primera sesión: Software
+
+La *primera sesión* se desarrolla los días *13 y/o 14 de febrero*. Coincidiendo con la [[https://fsfe.org/campaigns/ilovefs/][celebración del día del
+amor por el software libre]] -que ya [[http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017][hemos organizado]] los dos años anteriores- pretendemos que toméis contacto
+con buena parte del software que nos va a acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], edición de texto,
+HTML, Web, edición gráfica, visualización, mapas, Python, R... Cada uno de los proyectos puede aprovechar lo que mejor
+desee de estas tecnologías.
+
+** Segunda sesión: Datos
+
+La *segunda sesión* coincide con la celebración del [[http://madrid.opendataday.org][día de los datos abiertos]], *viernes 2 y sábado 3 de
+marzo*. Si en la primera sesión aprendemos de software, en la segunda de datos: cómo hacer peticiones,
+portales de datos, cómo recopilar datos, datos enlazados, Wikipedia como fuente de datos, scraping... Los
+proyectos se presentarán previamente y se podrá trabajar en la búsqueda de datos para los mismos.
+
+** Tercera sesión: Jornadas de Periodismo de Datos 2018, simposio sobre el efecto Airbnb en Madrid y presentación de proyectos y colaboradorxs del taller
+
+La *tercera sesión* se compone a su vez de tres eventos en sí, *del 16 al 22 de abril*:
+
+- Jornadas de Periodismo de Datos *JPD18*. Al igual que en 2017, aprovechamos la convocatoria del taller para
+  aprender, compartir o difundir proyectos de periodismo de datos y sirve como simposio previo a la sesión del TPD18.
+
+- *Taller sobre el efecto Airbnb en Madrid*, punto de encuentro de iniciativas tecnopolíticas que están
+  abordando el tema y espacio idóneo para poner en práctica conocimientos de software libre sobre una temática
+  relacionada con el TPD18.
+
+- Tercera sesión del taller: se presentan los *proyectos seleccionados*, se presentan lxs *colaboradorxs* y se
+  crean formalmente los *equipos*.
+
+** Cuarta sesión: a tope!
+
 La cuarta sesión es *del 8 al 10 de junio*, donde los equipos trabajan en el desarrollo de su proyecto con el
 apoyo de lxs mentorxs técnicxs y periodistas de datos.
+
+** Quinta sesión: presentación final
 
 La quinta y última sesión, *del 22 al 24 de junio*, sirve para terminar el proyecto y presentarlo públicamente.
 
 
-** Primera sesión
-- Fechas: 13 y 14 de
-De esta manera, las dos primeras sesiones del taller serán abiertas a todas las personas que quieran
-participar de esta experiencia. La primera sesión se realiza la semana del 13 al 17 febrero, en la que nos
-centraremos en el aprendizaje de software para el periodismo de datos (día del amor por el software
-libre 2018) y en la práctica de software a través del taller práctico sobre el efecto AirBNB en Madrid. La
-segunda sesión se realiza el sábado 3 de marzo, en la que celebramos el día de los datos abiertos OpenDataDay,
-y nos centramos en buscar datos de los propuestas realizadas.
-
-Entre medias de las dos sesiones previas y las tres siguientes, el 19 de marzo, se dan a conocer los proyectos
-seleccionados.
-
-La tercera sesión se realiza del 20 al 22 de abril, la cuarta del 8 al 10 de junio y la quinta y última del 22
-al 24 de junio.
-
 * Resumen de fechas:
 
 
-- 22 enero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]]
+- 6 de febrero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://medialab-prado.es/article/v-taller-de-produccion-de-periodismo-de-datos-la-espana-vacia-convocatoria-de-proyectos][convocatoria de proyectos]].
 - 13-14 febrero, *primera sesión*: software para periodismo de datos durante ILOVEFS.
-- 2-3 marzo, *segunda sesión*, busca datos durante OpenDataDay 2018, día de los datos abiertos.
+- 2-3 marzo, *segunda sesión*, busca datos durante [[https://madrid.opendataday.org][OpenDataDay 2018]], día de los datos abiertos.
 - 12 marzo, fecha límite de presentación de propuestas.
 - 26 marzo, anuncio de proyectos seleccionados y publicación de convocatoria de colaboradoras.
-- 17-19 abril: practica con software libre durante taller efecto Airbnb en Madrid.
-- 20-22 abril, *tercera sesión*: simposio, presentación de proyectos y colaboradorxs, formación de equipos.
+- 17-19 abril: *Jornadas de Periodismo de Datos*, *simposio sobre el efecto Airbnb en Madrid*.
+- 20-22 abril, *tercera sesión*: presentación de proyectos y colaboradorxs, formación de equipos.
 - 8-10 junio, *cuarta sesión*: trabajo.
 - 22-24 junio, *quinta y última sesión*, presentación de proyectos.
 
 * Por qué "Los Objetivos de Desarrollo Sostenible"         :TOC:
-Los objetivos de desarrollo sostenible son una convocatoria mundial para acabar con la pobreza, conseguir la
-paz y la prosperidad de la humanidad.
+Los objetivos de desarrollo sostenible ofrecen un marco de referencia y un marco de actuación compartida. Son
+una convocatoria mundial para acabar con la pobreza, conseguir la paz y la prosperidad de la humanidad.
 
 Son [[http://www.undp.org/content/undp/en/home/sustainable-development-goals.html][17 objetivos]] construidos sobre la base de los [[http://www.undp.org/content/undp/en/home/sustainable-development-goals/background.html][objetivos de desarrollo del milenio]] pero que introducen
 acciones contra el cambio climático, la desigualdad económica, la innovación y el consumo sostenible, la paz y
 la justicia, entre otras prioridades. Los objetivos se interconectan y a menudo la clave para conseguir uno de
 ellos involucra a otros.
+
+Si en 2016 trabajamos el tema de la desigualdad y la pobreza a propósito de la elaboración del [[https://decide.madrid.es/derechos-humanos/plan][Plan de
+Derechos Humanos del Ayuntamiento de Madrid]] y en 2017 investigamos el territorio nacional a través de [[https://medialab-prado.github.io/tpd17][la
+España vacía]], en 2018 volvemos a poner el foco sobre Madrid (y alrededores) y centramos nuestra lente sobre
+los ODS relacionados con el cambio climático.
+
+
+
 ** Reto 11
 El reto 11 dice [[https://sustainabledevelopment.un.org/sdg11][Make cities and human settlements inclusive, safe, resilient and sustainable]], y se
 desarrollará mucho en 2018 durante [[https://sustainabledevelopment.un.org/hlpf][High-level Political Forum on Sustainable Development]] ([[https://sustainabledevelopment.un.org/hlpf/2018/documentation][HLPF]]), donde se
@@ -153,29 +173,6 @@ tratarán los objetivos 6, 7, 11, 12, 15 y 17 y donde también participa [[https
 - [[https://sustainabledevelopment.un.org/topics/disasterriskreduction][Reducción del riesgo de desastres]].
 - [[https://sustainabledevelopment.un.org/topics/sustainablecities][Ciudades sostenibles y asentamientos humanos]].
 - [[https://sustainabledevelopment.un.org/topics/sustainabletransport][Transporte sostenible]].
-
-* Sesiones
-
-** Primera sesión: software libre pare el Periodismo de Datos.
-*** Día del amor por el Software Libre
-Con la participación de...
-** Segunda sesión: Datos abiertos para el periodismo de datos
-Con la participación de ODI Madrid, OEG-UPM...
-** Tercera sesión: Simposio, presentación de proyectos y colaboradorxs, formación de equipos
-Esta sesión se compone del /taller práctico sobre el efecto Airbnb en Madrid/, las *Jornadas de Periodismo de
-Datos* y la sesión de presentación de proyectos y colaboradorxs.
-*** Taller del efecto de Airbnb en Madrid
-Con la participación de Montera34 y moratoria.eu
-*** Jornadas de Periodismo de Datos 2018
-*** Presentación de proyectos y colaboradorxs
-*** Trabajo en grupo
-** Cuarta sesión
-*** Trabajo en grupo
-** Quinta sesión
-*** Trabajo en grupo
-*** Presentación de proyectos
-
-* Inspiración
 ** Proyectos
 
 - [[https://www.ara.cat/media/Ara-mencio-premi-repte-innovacio-digital_0_1945605656.html][Towards clear air with open data]]
@@ -204,6 +201,29 @@ Con la participación de Montera34 y moratoria.eu
 * Recursos								:TOC:
 
 - [[http://www.undp.org/content/undp/en/home/sustainable-development-goals/resources.html][Recursos de Naciones Unidas]]
+
+
+* Sesiones
+
+** Primera sesión: software libre pare el Periodismo de Datos.
+*** Día del amor por el Software Libre
+Con la participación de...
+** Segunda sesión: Datos abiertos para el periodismo de datos
+Con la participación de ODI Madrid, OEG-UPM...
+** Tercera sesión: Simposio, presentación de proyectos y colaboradorxs, formación de equipos
+Esta sesión se compone del /taller práctico sobre el efecto Airbnb en Madrid/, las *Jornadas de Periodismo de
+Datos* y la sesión de presentación de proyectos y colaboradorxs.
+*** Taller del efecto de Airbnb en Madrid
+Con la participación de Montera34 y moratoria.eu
+*** Jornadas de Periodismo de Datos 2018
+*** Presentación de proyectos y colaboradorxs
+*** Trabajo en grupo
+** Cuarta sesión
+*** Trabajo en grupo
+** Quinta sesión
+*** Trabajo en grupo
+*** Presentación de proyectos
+
 
 * Equipo <<equipo>> 							:TOC:
 ** Organizan
