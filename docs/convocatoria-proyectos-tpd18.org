@@ -1,0 +1,90 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: Convocatoria de proyectos del quinto taller de producción de periodismo de datos
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Convocatoria de proyectos TPD18
+#+DATE: <2018-01-13 sáb>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
+
+El [[http://medialab-prado.es/article/tpd18][Taller de Periodismo de Datos 2018]] abrea su convocatoria de proyectos hasta el *12 de marzo*. En su
+sexta edición, se centra en los *Objetivos de Desarrollo Sostenible* relacionados con la lucha contra
+el cambio climático y su efecto en Madrid (ciudad, comunidad, región, área...). Si quieres participar con un
+proyectos, lee las condiciones y rellena el formulario.
+
+#+CAPTION: ODS y Cambio Climático en Madrid
+#+NAME: tpd18
+#+ATTR_HTML: :alt Objetivos de Desarrollo Sostenible relacionados con la lucha contra el cambio climático :title tpd18 :width 480px
+http://medialab-prado.es/mmedia/20/20866/500_0.png
+
+* A quién se dirige
+Esta convocatoria va dirigida a periodistas, programadorxs, desarrolladorxs front/back/full, diseñadorxs UX,
+estadísticxs, sociólogxs, antropólogxs, visualizadorxs de datos y, en general, cualquier persona que quiera
+trabajar con datos relacionados con los Objetivos de Desarrollo Sostenible que tratan de paliar el cambio
+climático.
+
+Entre las novedades de esta convocatoria destacamos que se facilitará el *transporte* y *alojamiento* para la
+persona promotora de un máximo de tres proyectos.
+
+La fecha límite para la presentación de proyectos es el *lunes 12 de marzo* a las 12 de la noche UTC+1.
+
+La inscripción es *gratuíta*.
+* Condiciones
+
+Los proyectos deben reunir estas condiciones:
+
+- Recopilación y análisis de datos para crear una historia o herramienta periodística.
+- Fuentes de datos fiables y localizadas antes de la realización del taller.
+- Tema relacionado con la narrativa del taller.
+
+* ¿Dudas?
+¿Tienes alguna duda? [[https://cryptpad.fr/code/#/1/edit/93vepRdIm0mqoKyzEG8eJQ/2IJSZnHLomOW46vBnFHSA8So/][Sigue este modelo]] si no sabes cómo enviar una idea, una propuesta sobre la que trabajar. Si se trata de cualquier otra cosa, escribe a adolfo @ medialab-prado.es.
+
+#+BEGIN_QUOTE
+Los resultados y el código fuente deben tener licencias libres que permitan el acceso y la difusión del conocimiento producido durante el taller.
+#+END_QUOTE
+
+Si tienes cualquier duda, escribe a [[mailto:visualizar@medialab-prado.es][visualizar @ medialab-prado.es]]
+
+
+* Convocatoria de colaboradorxs
+¿Quieres apuntarte al taller simplemente para trabajar en uno de los proyectos? El 6 de marzo se abrirá la convocatoria de colaboradores en la web de Medialab-Prado.
+
+* Presentación de proyectos
+
+Este año tenéis que rellenar el formulario que aparece a continuación con todos vuestros datos. Sin embargo os
+proponemos que publiquéis ya el proyecto y lo contéis el día de los datos abiertos:
+
+** Publicación previa del proyecto
+
+Publicad vuestro proyecto en algún sitio web, como por ejemplo Github, Gitlab, bitbucket o cualquier otra web
+de gestión de proyectos que permita que más usuarixs puedan sumarse desde ya y de esta manera comencéis a
+trabajar incluso sin saber si vas a ser seleccionados.
+
+Nosotrxs usamos [[https://github.com/medialab-prado/tpd18][Github]] para la gestión de los proyectos y de los equipos y queremos potenciar su uso y el trabajo en red y colaborativo. Además, de esta forma quizás consigáis que otras personas aporten sugerencias que hagan que vuestra propuesta sea mejor.
+
+** Día de los datos abiertos
+Si contáis con datos, ya sean muchos y pocos, o bien los tenéis localizados pero no habéis accedido a ellos, o
+pensáis que se pueden sacar de tal sitio pero no sabéis cómo, os proponemos que presentéis el proyecto al día
+de los datos abiertos que se celebra en [[http://medialab-prado.es/article/odd18][Madrid]] y otros lugares de [[http://spain.opendataday.org][España]] y del [[http://opendataday.org][mundo]] el viernes 2 y sábado 3
+de marzo.
+
+De esta manera, damos oportunidad a enriquecer las fuentes de datos del proyecto antes de su fecha límite de presentación el *12 de marzo*.
+
+* Resumen de fechas:
+
+- 8 de febrero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://medialab-prado.es/article/tpd18cfp][convocatoria de proyectos]].
+- 13-14 febrero, *primera sesión*: software para periodismo de datos durante [[http://medialab-prado.es/article/ilovefs18][ILOVEFS18]].
+- 2-3 marzo, *segunda sesión*, busca datos durante [[http://medialab-prado.es/article/odd18][OpenDataDay 2018]], día de los datos abiertos.
+- 12 marzo, fecha límite de presentación de propuestas.
+- 26 marzo, anuncio de proyectos seleccionados y publicación de convocatoria de colaboradoras.
+- 17-19 abril, *Jornadas de Periodismo de Datos*
+- 17-19 abril, *simposio sobre el efecto Airbnb en Madrid*.
+- 20-22 abril, *tercera sesión*: presentación de proyectos y colaboradorxs, formación de equipos.
+- 8-10 junio, *cuarta sesión*: trabajo.
+- 22-24 junio, *quinta y última sesión*, presentación de proyectos.
+
+
+* Formulario
+

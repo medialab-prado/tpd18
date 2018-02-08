@@ -6,16 +6,23 @@
 #+EMAIL: adolfo@medialab-prado.es
 #+TITLE: Madrid y los Objetivos de Desarrollo Sostenible, sexto taller de periodismo de datos.
 #+DATE: <2018-01-13 sáb>
-#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
 
-El Taller de Producción de Periodismo de Datos alcanza su sexta edición en 2018 y amplía su duración hasta las cinco sesiones. De *febrero a junio*, /8 proyectos/ trabajarán con datos de *Madrid* los [[http://www.undp.org/content/undp/es/home/sustainable-development-goals.html][objetivos de desarrollo sostenible]] (*ODS*), concretamente los que luchan *contra el cambio climático*.
+El *Taller de Periodismo de Datos* alcanza su sexta edición en 2018 y amplía su duración hasta las cinco
+sesiones para desarrollar historias basadas en datos centradas en los [[http://www.undp.org/content/undp/es/home/sustainable-development-goals.html][Objetivos de Desarrollo Sostenible]] (*ODS*)
+relacionados con la lucha contra el cambio climático en Madrid (ciudad, comunidad, región, área...).
 
+#+CAPTION: ODS y Cambio Climático en Madrid
+#+NAME: tpd18
+#+ATTR_HTML: :alt Objetivos de Desarrollo Sostenible relacionados con la lucha contra el cambio climático :title tpd18 :width 480px
+http://medialab-prado.es/mmedia/20/20866/500_0.png
 
 * Introducción
 
 La sexta edición del /taller de producción de periodismo de datos/ aprende de las ediciones anteriores, y en particular de la de 2017, para proponer un taller de cinco sesiones que viene cargada de cambios, con los cuales pretendemos mejorar tanto el desarrollo del taller como los proyectos que se realizan.
 
-Trabajaremos sobre los *Objetivos de Desarrollo Sostenible* que tratan de la *lucha contra el cambio climático* y cómo afecta a Madrid.
+Trabajaremos sobre los *Objetivos de Desarrollo Sostenible* que tratan de la *lucha contra el cambio
+climático* y cómo afecta a *Madrid* (ciudad, comunidad, región, área...).
 
 ** Contexto
 En 2015 la ONU desarrolló 17 objetivos mundiales para erradicar la pobreza, combatir la desigualdad y la injusticia y solucionar el cambio climático. Si en 2016 trabajamos el tema de la desigualdad y la pobreza y en 2017 abordamos nuestro territorio con [[https://medialab-prado.github.io/tpd17][la España vacía]], en 2018 hacemos zoom sobre Madrid (y alrededores) y enfocamos nuestra lente sobre los ODS relacionados con el cambio climático.
@@ -24,17 +31,24 @@ En 2015 la ONU desarrolló 17 objetivos mundiales para erradicar la pobreza, com
 
 El Taller de Periodismo de Datos 2018 inicia su andadura el 8 de febrero, fecha de publicación de esta nota. Aquí anunciamos todos los detalles del taller.
 
-En esta ocasión, al igual que en 2017, no os pedimos todavía una propuesta formal, sino que empecéis a trabajar en vuestra idea/propuesta/proyecto y nos enviéis un correo para que lo añadamos a la lista de propuestas.
+En esta ocasión, al igual que en 2017, no os pedimos todavía una propuesta formal -aunque podéis registrarla
+en cualquier momento en nuestro formulario-, sino que empecéis a trabajar en vuestra idea/propuesta/proyecto y
+nos[[mailto:visualizar%20@%20medialab-prado%20.%20es][enviéis un correo]]/[[https://github.com/medialab-prado/tpd18/issues/new][creéis una issue]] para que lo añadamos a la lista de propuestas.
 
-Os recomendamos alguna de estas plataformas para empezar a definir la propuesta: [[https://github.com/][GitHub]], [[http://gitlab.com/][GitLab]], [[https://bitbucket.org/][Bitbucket]], [[https://gogs.io][Gogs]], [[https://gitea.io/][Gitea]] o una solución similar que permita empezar a trabajar sobre la idea y aceptar la participación de otras personas. Nosotrxs, de momento, usamos Github, por lo que su uso nos permitirá cierta facilidad de integración.
+Os recomendamos alguna de estas plataformas para empezar a definir la propuesta: [[https://github.com/][GitHub]], [[http://gitlab.com/][GitLab]], [[https://bitbucket.org/][Bitbucket]], [[https://gogs.io][Gogs]], [[https://gitea.io/][Gitea]] o una solución similar que permita empezar a trabajar sobre la idea y aceptar la participación de otras personas. Nosotrxs, de momento, usamos [[https://github.com/medialab-prado/tpd18/][Github]], por lo que su uso nos permitirá cierta facilidad de integración.
 
 #+BEGIN_NOTES
-¿Por qué no os proponemos un Pad u otro sistema de documentación al vuelo en línea como Google Docs? Porque todo lo que hagáis ahí no lo controláis de la misma manera.
+¿Por qué no os proponemos un Pad u otro sistema de documentación al vuelo en línea como Google Docs? Porque
+todo lo que hagáis ahí no lo controláis de la misma manera. (de momento)
 #+END_NOTES
 
 ** Plazo de presentación de proyectos
 
-Diez días después del día de los datos abiertos, el *13 de marzo*, se cierra el plazo de presentación de proyectos y se anuncian el martes *20 de marzo*.
+El plazo de presentación de proyectos finaliza diez días después del día de los datos abiertos, el *13 de
+marzo*.
+
+** Anuncio de proyectos seleccionados
+El martes *20 de marzo* se anuncian los proyectos seleccionados 
 
 
 ** Herramientas de comunicación
@@ -55,22 +69,22 @@ Para lo segundo, Medialab-Prado, siempre que su agenda lo permita, puede servir 
 
 ** Primera sesión: Software para el Periodismo de Datos
 
-La *primera sesión* se desarrolla los días *13 y/o 14 de febrero*. Coincidiendo con la [[https://fsfe.org/campaigns/ilovefs/][celebración del día del amor por el software libre]] -que ya [[http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017][hemos organizado]] los dos años anteriores- pretendemos que toméis contacto con buena parte del software que nos va a acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], edición de texto, HTML, Web, edición gráfica, visualización, mapas, Python, R... Cada uno de los proyectos puede aprovechar lo que mejor
+La *primera sesión* se desarrolla los días *13 y/o 14 de febrero*, la [[http://medialab-prado.es/article/ilovefs/][celebración del día del amor por el software libre]] -que ya [[http://medialab-prado.es/article/dia-del-amor-por-el-software-libre-ilovefs-2017][hemos organizado]] los dos años anteriores- pretendemos que toméis contacto con buena parte del software que nos va a acompañar durante el taller: [[https://git-scm.com/][git]], [[https://www.gnu.org/software/bash/][bash]], [[https://www.gnu.org/][GNU/Linux]], edición de texto, HTML, Web, edición gráfica, visualización, mapas, Python, R... Cada uno de los proyectos puede aprovechar lo que mejor
 desee de estas tecnologías.
 
-Más información en [[http://s.coop/ilovefs18][ILOVEFS18]].
+Más información en [[http://medialab-prado.es/article/ilovefs18][ILOVEFS18]].
 
 ** Segunda sesión: Datos (abiertos) para el Periodismo de Datos
 
 La *segunda sesión* coincide con la celebración del [[http://madrid.opendataday.org][día de los datos abiertos]], *viernes 2 y sábado 3 de marzo*. Si en la primera sesión aprendemos de software, en la segunda de datos: cómo hacer peticiones, portales de datos, cómo recopilar datos, datos enlazados, Wikipedia como fuente de datos, scraping... Los proyectos se presentarán previamente y se podrá trabajar en la búsqueda de datos para los mismos.
 
-Más información en [[http://madrid.opendataday.org][ODD18Madrid]]
+Más información en [[http://medialab-prado.es/article/odd18][Open Data Day]]
 
 ** Tercera sesión: Jornadas de Periodismo de Datos 2018, simposio sobre el /efecto Airbnb/ en Madrid y presentación de proyectos y colaboradorxs del taller
 
 La *tercera sesión* se compone a su vez de tres eventos en sí, *del 17 al 22 de abril*:
 
-- Jornadas de Periodismo de Datos *JPD18*, del 17 al 19 de abril. Al igual que en 2017, aprovechamos la convocatoria del taller para aprender, compartir o difundir proyectos de periodismo de datos y sirve como simposio previo a la sesión del TPD18.
+- *Jornadas de Periodismo de Datos* *JPD18*, del 17 al 19 de abril. Al igual que en 2017, aprovechamos la convocatoria del taller para aprender, compartir o difundir proyectos de periodismo de datos y sirve como simposio previo a la sesión del TPD18.
 
 - *Taller sobre el efecto Airbnb en Madrid*. Una de las actividades de las Jornadas será este encuentro de iniciativas tecnopolíticas que están abordando el tema y espacio idóneo para poner en práctica conocimientos de software libre sobre una temática relacionada con el TPD18.
 
@@ -86,9 +100,9 @@ La quinta y última sesión, *del 22 al 24 de junio*, sirve para terminar el pro
 
 * Resumen de fechas:
 
-- 8 de febrero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://s.coop/tpd18cfp]].
-- 13-14 febrero, *primera sesión*: software para periodismo de datos durante [[http://s.coop/ilovefs18][ILOVEFS18]].
-- 2-3 marzo, *segunda sesión*, busca datos durante [[https://madrid.opendataday.org][OpenDataDay 2018]], día de los datos abiertos.
+- 8 de febrero, [[http://s.coop/tpd18][anuncio del taller]] y publicación de la [[http://medialab-prado.es/article/tpd18cfp][convocatoria de proyectos]].
+- 13-14 febrero, *primera sesión*: software para periodismo de datos durante [[http://medialab-prado.es/article/ilovefs18][ILOVEFS18]].
+- 2-3 marzo, *segunda sesión*, busca datos durante [[http://medialab-prado.es/article/odd18][OpenDataDay 2018]], día de los datos abiertos.
 - 12 marzo, fecha límite de presentación de propuestas.
 - 26 marzo, anuncio de proyectos seleccionados y publicación de convocatoria de colaboradoras.
 - 17-19 abril, *Jornadas de Periodismo de Datos*
@@ -108,6 +122,8 @@ Si en 2016 trabajamos el tema de la desigualdad y la pobreza a propósito de la 
 
 * Proyectos inspiradores
 
+Si conoces alguno, propónlo a través de una issue.
+
 - [[https://www.eventbrite.com/e/open-bike-data-mapping-with-openstreetmap-registration-34806438996#][Open Bike Data & Mapping with OpenStreetMap]]
 - [[http://2017.summerofcode.be/][Open Summer of Code]]
 - [[http://datapiloten.be/parking/][Linked Open Data Parking]]
@@ -119,28 +135,33 @@ Si en 2016 trabajamos el tema de la desigualdad y la pobreza a propósito de la 
 * Datos sobre ODS
 
 ** España
- 
-- [[http://ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254734710990][Instituto Nacional de Estadística (INE). Datos demográficos]]
-- [[http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do;jsessionid=CD432E0A4150A63D3B8262B8329B748B#selectedSerie][Centro Nacional de Información Geográfica (CNIG). Centro de descargas]]
-- [[http://www.ign.es/ign/layoutIn/sismoFormularioCatalogo.do][Instituto Geográfico Nacional]]
-anos]]
-- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/][Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Catálogo de datos]]
-- [[https://sede.minetur.gob.es/es-ES/datosabiertos/catalogo-datos/Paginas/catalogo.aspx?tm=9][Ministerio de Industria. Catálogo de datos]]
-- [[http://www.minhafp.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/Catalogodedatosabiertos.aspx][Ministerio de hacienda. Catálogo de datos]]
-- [[http://www.msssi.gob.es/estadEstudios/estadisticas/sisInfSanSNS/home.htm][Ministerio de Sanidad, Servicios sociales e Igualdad. Catálogo de datos]]
-- [[https://www1.sedecatastro.gob.es/OVCFrames.aspx?TIPO=consulta][Sede electrónica del catastro. Consulta de datos catastrales]]
-- [[https://presupuestos.gobierto.es/][Presupuestos de todos los municipios de España - Gobierto]]
+- [[http://ine.es/dyngs/INEbase/es/categoria.htm?c=Estadistica_P&cid=1254734710990][Datos demográficos, Instituto Nacional de Estadística (INE)]]
+- [[http://centrodedescargas.cnig.es/CentroDescargas/catalogo.do;jsessionid=CD432E0A4150A63D3B8262B8329B748B#selectedSerie][Centro de descargas, Centro Nacional de Información Geográfica (CNIG)]]
+- [[http://www.ign.es/ign/layoutIn/sismoFormularioCatalogo.do][Instituto Geográfico Nacional, IGN]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/][Catálogo de datos, MAPAMA]]
+- [[https://sede.minetur.gob.es/es-ES/datosabiertos/catalogo-datos/Paginas/catalogo.aspx?tm=9][Catálogo de datos, Ministerio de Industria]]
+- [[http://www.minhafp.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/Catalogodedatosabiertos.aspx][Catálogo de datos, Ministerio de hacienda]]
+- [[http://www.msssi.gob.es/estadEstudios/estadisticas/sisInfSanSNS/home.htm][Catálogo de datos, Ministerio de Sanidad, Servicios sociales e Igualdad]]
+- [[https://www1.sedecatastro.gob.es/OVCFrames.aspx?TIPO=consulta][Datos catastrales, sede electrónica del catastro]]
 - [[http://www.aemet.es/es/portada][Agencia Estatal de Meteorología (AEMET)]]
-- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/descargas/costas-medio-marino/guia-playas-descargas.aspx][Base de datos de playas en España - Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/][Cartografía y SIG, MAPAMA]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/descargas/default.aspx][Datos geográficos, MAPAMA]]
+- [[http://www.mapama.gob.es/es/estadistica/temas/][Estadísticas, MAPAMA]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/][Infraestructura de Datos Espaciales, MAPAMA]]
+- [[http://www.mapama.gob.es/es/cartografia-y-sig/ide/descargas/costas-medio-marino/guia-playas-descargas.aspx][Base de datos de playas en España, MAPAMA]]
 - [[https://www.csn.es/ciemat-pimic/datos-generales][Consejo de Seguridad Nuclear]]
+
 
 ** Europa
 - [[http://ec.europa.eu/eurostat/data/database][EUROSTAT. Catálogo de datos]]
-- [[http://urban.jrc.ec.europa.eu/][Comisión Europea. Plataforma de datos urb
+- [[http://urban.jrc.ec.europa.eu/][Comisión Europea. Plataforma de datos urbanos]]
 - [[http://ec.europa.eu/eurostat/statistics-explained/index.php/Tourism_statistics_at_regional_level][Estadísticas de turismo - Eurostat]]
+- [[http://ec.europa.eu/eurostat/statistics-explained/index.php/SDG_-_Introduction][Estadísticas de ODS en Eurostat]]
 
 ** Internacional
-
+- [[http://data.un.org/][Naciones Unidas. Catálogo de datos]]
+- [[http://datos.bancomundial.org/indicador][Banco Mundial. Catálogo de datos]]
+- [[http://www.who.int/gho/en/][Organización Mundial de la Salud. Catálogo de datos]]
 - [[http://www.sdgdatalabs.org/data/][SDG Labs]]
 - [[http://www.undatarevolution.org/report/][UN Data Revolution]]
 - [[http://blogs.worldbank.org/ic4d/sustainable-development-goals-and-open-data][SDG and Open Data]]
@@ -160,15 +181,26 @@ anos]]
 - [[http://datos.bancomundial.org/indicador][Banco Mundial. Catálogo de datos]]
 - [[http://www.who.int/gho/en/][Organización Mundial de la Salud. Catálogo de datos]]
 * Equipo
-El Laboratorio de Datos de Medialab-Prado
-** Organizan
+Organiza el Laboratorio de Datos de Medialab-Prado.
+
+Participan: (/en construcción/)
+** Coordinación
 - [[http://medialab-prado.es/person/adolfoanton][Adolfo Antón Bravo]], responsable del DataLab Madrid y coordinador del taller.
-- Sara Calvo Tarancón
-- [[http://medialab-prado.es/person/julian-perez][Julián Pérez]], artista digital y ex-mediador Medialab Prado
+- [[http://medialab-prado.es/person/sara-calvo-tarancon][Sara Calvo Tarancón]], periodista.
+- [[http://medialab-prado.es/person/julian-perez][Julián Pérez]], artista digital, ex-mediador Medialab Prado y miembro de AVFLOSS.
 ** Mentorxs técnicxs
-- Alejandro Zappala
-- Jesús David Navarro
-** Invitadx internacional
+- [[http://medialab-prado.es/person/alejandrozappala][Alejandro Zappala]], ingeniero en cartografía y geodesia, [[http://www.adappgeo.net][investigador]]
+- [[http://jesusda.com][Jesús David Navarro]], diseñador gráfico y web con Software Libre.
+- [[http://medialab-prado.es/person/carlosjgilbellosta][Carlos Gil Bellosta]], científico de datos y apasionado de R.
 ** Relatoría
+- [[http://sandrasm.com][Sandra Sánchez Merinero]], periodista de datos en Xataka.
+- [[http://sihayperosquevalgan.com][María Navarro]], periodista de en #LaCafetera (Radio Cable)
 ** Mediación
+- Mertxe Bilbao, relaciones públicas.
 ** Mentorías de periodismo y visualización de datos
+/En construcción/:
+- Adrián Blanco (El Confidencial)
+- María Zuil (El Confidencial)
+- Idoia Sota (El País)
+- Verónica Ramírez (La Sexta)
+- /Más por venir/...

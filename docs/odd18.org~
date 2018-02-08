@@ -1,0 +1,86 @@
+
+
+#+CATEGORY: congreso, evento
+#+TAGS: datos, datos abiertos, opendata, open data, opendataday
+#+DESCRIPTION: Organización del Día de los Datos Abiertos 2018 como parte del Taller de Periodismo de Datos 2018
+#+TITLE: Día de los datos abiertos 2018
+#+DATE: <2018-02-05 lun>
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+OPTIONS: todo:nil pri:nil tags:nil ^:nil toc:nil
+
+La edición del día de los datos abiertos se convierte en parte del [[http://s.coop/tpd18][Taller de Periodismo de Datos 2018]]. Si en
+la primera sesión aprendimos y compartimos software libre; en ésta se buscan, liberan, comparten, usan datos
+(abiertos) y participan las propuestas que quieran presentarse al Taller de Periodismo de Datos 2018.
+
+#+attr_html: :alt Están invitadxs, de nuevo. El día de los datos abiertos se llevará a cabo el viernes 2 y sábado 3 de marzo de 2018, CC ODD :width 600px
+file://opendataday.png
+
+En 2016 fueron ocho las ciudades que albergaron eventos de datos abiertos, el mismo año que se celebraba la
+Conferencia Internacional de Datos Abiertos [[http://iodc2016.org][IODC2016]]. Sin embargo, España presentaba un pobre índice en el
+[[https://index.okfn.org/][Open Data Index]], el índice de los datos abiertos.
+
+En 2017 ligamos la celebración con el taller de periodismo de datos. Animábamos a los proyectos que se habían
+presentado al taller a presentarlo este día y empezar a buscar cooperativamente datos sobre el mismo.
+
+En esta ocasión repetimos el experimento y lo reforzamos con charlas y talleres.
+
+* Agenda
+** Viernes 2, de 18:00 a 20:30 horas.
+- 18:00-18:30 Presentación del Día de los datos abiertos
+- 18:30-20:30, charlas y talleres
+
+** Sábado 3, de 11:00 a 20:30 horas.
+- 11:00, Presentación
+- 11:30, Charla sobre datos abiertos y ODS
+- 12:00-14:00, 3 estaciones de trabajo:
+ 1. Wikidata, otra fuente de datos enlazados de la Wikipedia, con David Abián, de Wikimedia España.
+ 2. datos.madrid.es, investiga en el amplio catálogo de datos de la ciudad de Madrid. ¿Transparencia? Aprende cómo realizar peticiones, trucos, casos de éxito...
+ 3. ¿Ontologías? Sí, por favor, veamos cómo!, por María Poveda, de OEG-UPM y ODI Madrid
+- 14:00-15:00, comida y networking
+- 15:00-15:30, conexión con otras ciudades, /elevator pitch/ (anuncia tu idea)
+- 15:30-17:30, 3 estaciones de trabajo:
+ 1. DBpedia, aprende a buscar datos enlazados de la DBpedia, con Mariano Rico, de DBPedia España
+ 2. Web scraping, busca datos en la red y descárgatelos, con Fernando Blat, de Populate Tools.
+ 3. Open Data Index, démosle un impulso comunitario a esta iniciativa. (Pendiente de confirmación)
+- 17:30-18:00, merienda y recapitulación.
+- 18:00-20:00, pon en práctica tus habilidades con otrxs.
+- 20:00-20:30, presentación final de conclusiones de cada proyecto y/o persona.
+
+
+#+BEGIN_QUOTE
+Se crean aplicaciones, se liberan datos, se crean visualizaciones y se publican análisis usando datos abiertos públicos. Es una forma de apoyar y motivar la adopción de políticas de datos abiertos por parte de los gobiernos locales, regionales o nacionales. 
+#+END_QUOTE
+
+* Historia del día de los datos abiertos
+La idea para el primer Open Data Day empezó como una lluvia de ideas internacional que involucró a algunxs de
+las personalidades más reputadas en el mundo de los datos abiertos como David Eaves o Rufus Pollock. [[http://okfn.es][Open
+Knowledge España]] participó en la organización del [[http://madrid.opendataday.org][hackatón de Madrid]] y también creó una [[http://spain.opendataday.org][web para anunciar las
+actividades del conjunto de eventos de España]] y para anunciar la [[http://opendatacon.org][próxima conferencia internacional IODC2016]],
+cuya [[http://opendatacon.org/iodc16/call-for-proposals/][Call for Participation]] acababa de lanzarse.
+
+Cualquier persona, entidad u organización puede proponer y celebrar este día si cumple con estos cuatro
+principios básicos:
+
+1. que se realice alrededor del día propuesto:
+2. que sea abierto;
+3. que se difundan, promuevan o informe sobre los datos abiertos;
+4. y que sea en red.
+
+
+La organización en red se cumple desde el propio [[http://opendataday.org][sitio web]], que se compone de la web en sí, alojada en [[https://github.com/okfn/opendataday.org/][Github]], donde cualquiera puede [[https://github.com/okfn/opendataday.org/issues/new][abrir una /issue/]] o [[https://github.com/okfn/opendataday.org/compare][proponer un /pull request/]]; la [[http://wiki.opendataday.org/2016/][wiki]] para anunciar eventos donde [[http://wiki.opendataday.org/wiki/index.php?title=Special:UserLogin&returnto=Main+Page&type=signup][cualquiera puede crear una cuenta libremente]]; y un [[http://opendataday.org/map/][mapa de eventos]] creado a partir de una [[https://docs.google.com/spreadsheets/d/1cV43fuzwy2q2ZKDWrHVS6XR4O8B01eLevh4PD6nCENE/edit#gid=1172400195][hoja de cálculo]] publicada en Google Drive.
+
+* Créditos
+** Organización
+- Adolfo Antón Bravo, DataLAB Madrid
+- María Poveda Villalón, OEG-UPM
+- Virginia de Pablo, ODI Madrid
+** Participan
+- DBPedia España
+- Wikimedia España
+- Open Data Institute, Madrid
+- Populate Tools
+- DataLAB Madrid
+
+
+

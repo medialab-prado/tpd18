@@ -1,0 +1,70 @@
+#+BLOG: blog.datalab.es
+#+CATEGORY: 
+#+TAGS: 
+#+DESCRIPTION: 
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Jornadas de Periodismo de Datos 2018
+#+DATE: <2018-02-08 jue>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
+#+TOC: headlines 2
+#+LATEX_HEADER: \usepackage[english]{babel}
+
+* Participan
+- Montera 34
+- Mar Cabra
+- Alba G. Corral
+- 
+** Montera34
+** Mar Cabra
+** Alba G. Corral
+
+
+* Simposio
+- Marian
+- Nacho
+
+* Indistintamente
+- Alejandro Zappala (menos L y J)
+- Sara Calvo
+- Julián
+
+* Equipo de mañana:
+- Héctor Millano (PorCausa)
+- Adolfo Antón Bravo, MP
+- Sergio Galán, MT
+- Irene Navarro, MD
+- Alejandro Zappala, MT
+
+* Equipo de tarde:
+- María Navarro, MD
+- Sandra Sánchez Merinero, MD
+- Elena Cabrera (14:00-18:30 y las mañanas que pueda), PC
+- Juan Antonio Lleó (y alguna mañana). MT
+
+* Cuadrante
+#+TBL_NAME: v17-equipo-horarios
+#+ATTR_LATEX: :float sidewaystable :placement [H]
+| Nombre       | Apellidos         | Perfil                       | Turno | Rol |           Teléfono | Email                            |
+|--------------+-------------------+------------------------------+-------+-----+--------------------+----------------------------------|
+| Adolfo       | Antón Bravo       | Comodín                      | M     | MP  |          617758917 | adolfo@medialab-prado.es         |
+| Elena        | Cabrera           | Periodista                   | T     | PC  |          615095024 | elena.cabrera@porcausa.org       |
+| Julián       | Pérez             | Programador                  | T     | MP  |          620998273 | streamlab@medialab-prado.es      |
+| Sara         | Calvo Tarancón    | Periodista                   | M     | MP  |          651767931 | saratarancon@gmail.com           |
+| Ignacio      | Azcona Cristobal  | Periodista                   | MT    | P   |          680803351 | azcona.nacho@gmail.com           |
+| Irene        | Yagüe             | video periodista             | M     | MD  |          660150077 | ireneyague@gmail.com             |
+| Mercedes     | Bilbao            | ayudante de producción       | M     | MD  |          617950342 | sandrasanchezmerinero8@gmail.com |
+| Sandra       | Sánchez Merinero  | Periodista de datos          | T     | MD  |          617712408 |                                  |
+| María        | Navarro           |                              | T     | MD  |          649691888 | maria9018@gmail.com              |
+| Alejandro    | Zappala           | Cartógrafo                   | M     | MT  |          690861906 | contacto@adappgeo.net            |
+| Beatriz      | Martínez          | Visualizadora                | T     | MT  |          659347789 | martinez.visualizados@gmail.com  |
+| Carlos       | Gil-Bellosta      | Data Scientist               | T     | MT  |          665644717 | gilbellosta@gmail.com            |
+| Hannah       | Williams          | Diseñadora gráfica/web       | F     | MT  |    +27 84 523 0354 | hello@hannahwilliams.co.za       |
+| Ignasi       | Alcalde           | Formador en dataviz          | ~     | MT  |          685204748 | ignasialcalde@gmail.com          |
+| Jesús David  | Navarro Rodríguez | Diseñador gráfico/web        | M     | MT  |          644247313 | jesusda@jesusda.com              |
+| Martín       | Nadal             | Artista/programador          | ~     | MT  |          644247313 | martin.nadal@gmail.com           |
+| Pablo        | Martín            | Programador civic hacker     | ~     | MT  |          627231718 | x@pr3ssh.net                     |
+| Samuel       | Granados          | Ilustrador/diseñador gráfico | ~     | M   | 001 - 202 744 8613 | granados.lopez@gmail.com         |
+| Sergio       | Galán             | Programador                  | M     | MT  |          627690101 | sergio.galan@gmail.com           |
+| Daniel       | Mery              | Programador                  | M     | MT  |          617679689 | danielmery@gmail.com             |
+| Juan Antonio | Lleó              | Programador                  | T     | MT  |          656397453 | juan.a.lleo@gmail.com            |
