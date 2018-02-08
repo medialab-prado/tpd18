@@ -1,0 +1,83 @@
+#+BLOG: blog.datalabx.es
+#+CATEGORY: softwarelibre, gnu
+#+TAGS: ilovefs, libresoftware, gpl, floss
+#+DESCRIPTION: Yo ♥ el Software Libre 2018 - Día de celebración del Software Libre
+#+AUTHOR: Adolfo Antón Bravo
+#+EMAIL: adolfo@medialab-prado.es
+#+TITLE: Datalab Loves Free Software
+#+DATE: <2018-01-14 dom>
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil toc:nil
+
+For the third consecutive year we celebrate ILOVEFS, the day of love and affection for Free Software. Datalab joins us with an activity that is part of the [[http://medialab-prado.es/article/tpd18][Data Journalism Workshop 2018]] with a talk on the history of GNU/Linux distros and working tables on different technologies. 
+
+#+CAPTION: I Love Free Software
+#+NAME: ilovefs
+#+ATTR_HTML: :alt I Love Free Software :title ILoveFS
+http://medialab-prado.es/mmedia/20/20864/500_0.png
+
+The Free Software Foundation Europe (FSFE) celebrates February 14 as the [[https://fsfe.org/campaigns/ilovefs/][International Day of Love for Free Software]] or /ILoveFS/ since 2011. From Datalab we renew and reinforce our commitment to Free Software by including it in the *Data Journalism Workshop 2018*. In this way, this party serves as the first session of the workshop, open to all people or projects that want to participate in the workshop, even those who are not going to do it, and who want to learn or share their knowledge of Free Software to have *super powers*.
+
+In short, we carry out four activities:
+
+1. Presentation of technological stations and any other technology or group that wants to share their interest or community on the 13th at 6 pm.
+2. 8 technology stations on days 13th and 14th.
+3. Daniel J. Mery, from Haskell Madrid, will talk about the history of free distributions on 14th at 6 pm.
+4. Finally, a review of what was done on the 14th at 8 pm.
+
+* Agenda
+** Tuesday 13, from 6 to 8:30 pm
+- 6-6:15pm, Presentation of ILOVEFS 2018
+- 6:15-6:45pm, Presentation of the different booth and other technologies or communities.
+- 6:45-8:30pm, workshops at the booths
+** Wednesday 14, from 18 to 8:30pm
+- 6-6:45pm, talk on the history of free distributions, by Daniel J. Mery.
+- 6:45-8pm, 8 workstations.
+- 8-8:30pm, group rating.
+
+* Free technology stations
+
+** Free Manuals
+
+David Arroyo launched [[http://libremanuals.net][Libremanuals.net]] to publish free books on free technologies. In this project he has worked with other people in translating, adapting or publishing free documentation. It currently has 4 books: GCC, Org-mode, Python and R. If these are your technologies you are welcome.
+
+** MAX
+
+GNU/Linux distribution made by the Comunidad de Madrid for the educational field, in the style of the most famous LinEx or Guadalinex. Ismail Gago de MAX and other community members will attend. If you want to install GNU/Linux or solve doubts of the first steps, this is your booth.
+
+** AVFLOSS
+
+[[http://medialab-prado.es/article/avfloss][AVFLOSS]] responds to /Audio and Video Free Open Source Software/, a working group that meets weekly in Medialab Prado since Oct 2016 and wants to serve as a meeting point for people interested in free software for audiovisual. This group is open to people interested in audiovisual production and with notions in any of its facets and processes: audiovisual artists, stage designers, scriptwriters, sound artists, lighting, editing, documentary filmmakers, cameras, etc. If you want to install or learn about different tools and free resources for your audio and video projects, come to our booth.
+
+** Madrid Haskell Group & BlockMAD
+
+The [[https://www.meetup.com/es-ES/Haskell-MAD/][Haskell Group in Madrid]] was the seed of the BlockMAD project that explored in a practical way the use of Blockchain in Madrid through lineamadrid in DATAMAD. It has become an active community that combines these and other technologies. They have collaborated in Visualizar' 17: Migrations.
+
+** PyLadies Madrid
+
+Group of Python Ladies Madrid, sometimes they have met in Medialab. They have a Meetup where you can find out about all the activities they do.
+
+** Julia
+
+Julia is a high-performance, high-level programming language for mathematical operations. It offers a sophisticated compiler, parallel distributed execution, numerical accuracy and an extensible library of mathematical functions. As they say in Julia,"Walks like Python. Runs like C". An introduction to the Julia language by Paco Gárate and, why not, the beginning of a local community interested in this language.
+
+** SIG
+
+Knowledge of geographic information systems is fundamental for any journalistic project based on spatial data. Alonso Morilla Meneses, specialist in Free Geomatics and member of the gvSIG Association, will offer a tour of the possibilities of this software.
+
+** R
+
+Case studies with R by Carlos Gil Bellosta.
+
+* Methodology
+
+- Each booth will have one or several cases to do among the assistants
+- There will be a website where you can find these cases and review, share, comment on or improve them.
+- We encourage active participation whenever it complements the work of the facilitators.
+- Everything done will be updated on their respective websites that we link from this article.
+
+* Requirements
+- Sign up for the form so that we can make a good balance between the different tables.
+- Bring your laptop, preferably with all the necessary permits to use it.
+- Bring your charger.
+- Don't forget to be eager to learn and share
+- Follow the code of conduct
